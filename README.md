@@ -1,4 +1,4 @@
-Title : Voter Management System
+**Voter Management System**
 
 Project Overview
 
